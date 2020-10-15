@@ -1,0 +1,451 @@
+{
+    "items": [
+    
+    {
+        "type": "boots",
+        "gender": "female",
+        "size": "small",
+        "color": "black",
+        "image": "./img/black_b2.jpg",
+        "season": "all"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "medium",
+        "color": "black",
+        "image": "./img/black_c.png",
+        "season": "winter"
+    },
+    
+    {
+        "type": "pants",
+        "gender": "unisex",
+        "size": "large",
+        "color": "black",
+        "image": "./img/black_p.png",
+        "season": "winter"
+        
+    },
+    {
+        "type": "pants",
+        "gender": "male",
+        "size": "medium",
+        "color": "black",
+        "image": "./img/black_p2.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "sneakers",
+        "gender": "female",
+        "size": "large",
+        "color": "black",
+        "image": "./img/black_s.jpg",
+        "season": "all"
+    },
+    {
+        "type": "sneakers",
+        "gender": "unisex",
+        "size": "medium",
+        "color": "black",
+        "image": "./img/black_s2.png",
+        "season": "all"
+    },
+    {
+        "type": "sneakers",
+        "gender": "female",
+        "size": "small",
+        "color": "black",
+        "image": "./img/black_s3.jpg",
+        "season": "all"
+    },
+    {   "type": "tshirt",
+        "gender": "female",
+        "size": "large",
+        "color": "black",
+        "image": "./img/black_t.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "boots",
+        "gender": "female",
+        "size": "small",
+        "color": "blue",
+        "image": "./img/blue_b.jpg",
+        "season": "winter"
+    },
+    
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "small",
+        "color": "blue",
+        "image": "./img/blue_j.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "pants",
+        "gender": "unisex",
+        "size": "large",
+        "color": "blue",
+        "image": "./img/blue_p.jpg",
+        "season": "winter"
+        
+    },
+    {
+        "type": "sneakers",
+        "gender": "unisex",
+        "size": "medium",
+        "color": "blue",
+        "image": "./img/blue_s.jpg",
+        "season": "all"
+    },
+    {
+        "type": "tshirt",
+        "gender": "female",
+        "size": "large",
+        "color": "blue",
+        "image": "./img/blue_t.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "boots",
+        "gender": "unisex",
+        "size": "medium",
+        "color": "brown",
+        "image": "./img/brown_b.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "small",
+        "color": "brown",
+        "image": "./img/brown_c.jpg",
+        "season": "winter"
+    },
+    {   "type": "pants",
+        "gender": "female",
+        "size": "large",
+        "color": "brown",
+        "image": "./img/brown_p.jpg",
+        "season": "all"
+    },
+    {
+        "type": "pants",
+        "gender": "female",
+        "size": "small",
+        "color": "brown",
+        "image": "./img/brown_p2.jpg",
+        "season": "all"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "medium",
+        "color": "grey",
+        "image": "./img/grey_c.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "small",
+        "color": "grey",
+        "image": "./img/grey_c2.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "large",
+        "color": "grey",
+        "image": "./img/grey_j.jpg",
+        "season": "winter"
+        
+    },
+    
+    {
+        "type": "sneakers",
+        "gender": "female",
+        "size": "large",
+        "color": "black",
+        "image": "./img/black_s.jpg",
+        "season": "all"
+    },
+    
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "small",
+        "color": "green",
+        "image": "./img/green_j.jpg",
+        "season": "winter"
+    },
+    {   "type": "pants",
+        "gender": "female",
+        "size": "large",
+        "color": "green",
+        "image": "./img/green_p.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "tshirt",
+        "gender": "female",
+        "size": "small",
+        "color": "green",
+        "image": "./img/green_t.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "medium",
+        "color": "orange",
+        "image": "./img/orange_j.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "tshirt",
+        "gender": "male",
+        "size": "small",
+        "color": "orange",
+        "image": "./img/orange_t.png",
+        "season": "summer"
+    },
+    {
+        "type": "boots",
+        "gender": "female",
+        "size": "large",
+        "color": "pattern",
+        "image": "./img/pattern_b.png",
+        "season": "winter"
+        
+    },
+    {
+        "type": "boots",
+        "gender": "female",
+        "size": "medium",
+        "color": "pattern",
+        "image": "./img/pattern_b2.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "large",
+        "color": "pattern",
+        "image": "./img/pattern_c.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "sneakers",
+        "gender": "unisex",
+        "size": "medium",
+        "color": "pattern",
+        "image": "./img/pattern_s.jpg",
+        "season": "all"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "small",
+        "color": "pink",
+        "image": "./img/pink_c.png",
+        "season": "winter"
+    },
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "medium",
+        "color": "pink",
+        "image": "./img/pink_j.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "pants",
+        "gender": "female",
+        "size": "large",
+        "color": "pink",
+        "image": "./img/pink_p.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "pink",
+        "gender": "female",
+        "size": "medium",
+        "color": "pink",
+        "image": "./img/pink_p2.jpg",
+        "season": "all"
+    },
+    
+    {   "type": "coat",
+        "gender": "female",
+        "size": "large",
+        "color": "purple",
+        "image": "./img/purple_c.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "pants",
+        "gender": "female",
+        "size": "small",
+        "color": "purple",
+        "image": "./img/purple_p.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "boots",
+        "gender": "female",
+        "size": "medium",
+        "color": "red",
+        "image": "./img/red_b.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "small",
+        "color": "red",
+        "image": "./img/red_c.png",
+        "season": "winter"
+    },
+    {
+        "type": "sneakers",
+        "gender": "unisex",
+        "size": "large",
+        "color": "red",
+        "image": "./img/red_s.jpg",
+        "season": "all"
+        
+    },
+    {
+        "type": "tshirt",
+        "gender": "female",
+        "size": "medium",
+        "color": "red",
+        "image": "./img/red_t.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "sneakers",
+        "gender": "female",
+        "size": "large",
+        "color": "white",
+        "image": "./img/white_b.jpg",
+        "season": "all"
+    },
+    {
+        "type": "boots",
+        "gender": "female",
+        "size": "medium",
+        "color": "white",
+        "image": "./img/white_b2.jpg",
+        "season": "all"
+    },
+    {
+        "type": "jumper",
+        "gender": "unisex",
+        "size": "small",
+        "color": "white",
+        "image": "./img/white_j.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "medium",
+        "color": "white",
+        "image": "./img/white_j2.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "pants",
+        "gender": "female",
+        "size": "large",
+        "color": "white",
+        "image": "./img/white_p.jpg",
+        "season": "all"
+    },
+    {
+        "type": "sneakers",
+        "gender": "unisex",
+        "size": "medium",
+        "color": "white",
+        "image": "./img/white_s.jpg",
+        "season": "all"
+    },
+    {
+        "type": "sneakers",
+        "gender": "female",
+        "size": "small",
+        "color": "white",
+        "image": "./img/white_s2.png",
+        "season": "all"
+    },
+    {   "type": "tshirt",
+        "gender": "female",
+        "size": "large",
+        "color": "white",
+        "image": "./img/white_t.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "tshirt",
+        "gender": "female",
+        "size": "small",
+        "color": "white",
+        "image": "./img/white_t2.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "tshirt",
+        "gender": "unisex",
+        "size": "medium",
+        "color": "white",
+        "image": "./img/white_t3.jpg",
+        "season": "summer"
+    },
+    {
+        "type": "tshirt",
+        "gender": "unisex",
+        "size": "small",
+        "color": "white",
+        "image": "./img/white_t4.png",
+        "season": "summer"
+    },
+    {
+        "type": "tshirt",
+        "gender": "unisex",
+        "size": "large",
+        "color": "yellow",
+        "image": "./img/yellow_t.jpg",
+        "season": "summer"
+        
+    },
+    {
+        "type": "coat",
+        "gender": "female",
+        "size": "medium",
+        "color": "yellow",
+        "image": "./img/yellow_c.jpg",
+        "season": "winter"
+    },
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "large",
+        "color": "yellow",
+        "image": "./img/yellow_j.png",
+        "season": "winter"
+    },
+    {
+        "type": "jumper",
+        "gender": "female",
+        "size": "small",
+        "color": "yellow",
+        "image": "./img/yellow_j2.jpg",
+        "season": "winter"
+    }
+]
+}

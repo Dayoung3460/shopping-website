@@ -1,0 +1,216 @@
+:root {
+  /* color */
+  --color-black: #3f454d;
+  --color-white: #e6e3e3;
+  --color-blue: #3b88c3;
+  --color-yellow: #e2f025;
+  --color-pink: #fd7f84;
+  --color-grey: #818080;
+  --color-brown: #b68843;
+  --color-green: #21a855;
+  --color-orange: #f8ac20;
+  --color-pattern: linear-gradient(
+    90deg,
+    rgb(173, 169, 247) 0%,
+    rgb(35, 182, 96) 50%,
+    rgb(223, 200, 101) 100%
+  );
+  --color-purple: #a00bb4;
+  --color-red: #f31313;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0% 5%;
+  height: 100%;
+}
+
+.github {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+  transition: all 0.1s ease;
+}
+
+.github:hover {
+  color: var(--color-pink);
+  transform: scale(1.1);
+}
+
+.github i {
+  font-size: 2rem;
+}
+
+.logoCon {
+  display: flex;
+  justify-content: center;
+  margin: 3em auto;
+}
+
+.imgLogo {
+  width: 220px;
+  height: 150px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.btnCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  height: 200px;
+}
+
+.btnCon .colorBtn {
+  padding-top: 10px;
+}
+
+.btnCon .clothesBtn img,
+.btnCon .colorBtn button {
+  margin: 5px;
+  transition: transform 0.2s ease;
+}
+
+.imgLogo:hover,
+.btnCon .clothesBtn img:hover,
+.btnCon .colorBtn button:hover {
+  transform: scale(1.1);
+}
+
+.btnCon .clothesBtn img {
+  cursor: pointer;
+  width: 60px;
+  height: 60px;
+}
+
+.btnCon .colorBtn button {
+  width: 90px;
+  height: 35px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  font-family: "Inconsolata", monospace;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+}
+
+.btnCon .colorBtn .blueBtn {
+  background: var(--color-blue);
+}
+
+.btnCon .colorBtn .yellowBtn {
+  background: var(--color-yellow);
+}
+
+.btnCon .colorBtn .redBtn {
+  background: var(--color-red);
+  color: var(--color-white);
+}
+.btnCon .colorBtn .pinkBtn {
+  background: var(--color-pink);
+}
+
+.btnCon .colorBtn .blackBtn {
+  background: var(--color-black);
+  color: var(--color-white);
+}
+
+.btnCon .colorBtn .brownBtn {
+  background: var(--color-brown);
+}
+.btnCon .colorBtn .greyBtn {
+  background: var(--color-grey);
+}
+
+.btnCon .colorBtn .greenBtn {
+  background: var(--color-green);
+}
+
+.btnCon .colorBtn .orangeBtn {
+  background: var(--color-orange);
+}
+.btnCon .colorBtn .patternBtn {
+  background: var(--color-pattern);
+}
+
+.btnCon .colorBtn .purpleBtn {
+  background: var(--color-purple);
+  color: var(--color-white);
+}
+
+.btnCon .colorBtn .whiteBtn {
+  background: var(--color-white);
+}
+
+.viewCon {
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto 5% auto;
+  align-items: center;
+  justify-items: center;
+  columns: 4;
+  column-gap: 40px;
+}
+
+.viewCon div {
+  display: block;
+  width: 100%;
+  margin-bottom: 1em;
+  background-color: var(--color-white);
+  padding-bottom: 6px;
+  position: relative;
+  overflow: hidden;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.viewCon div:hover {
+  transform: scale(1.03);
+}
+.viewCon div img {
+  max-width: 100%;
+}
+
+.viewCon div span {
+  padding: 10px;
+  margin: 10px;
+  font-family: "Vollkorn", serif;
+}
+
+/* responsive */
+
+@media only screen and (max-width: 1200px) {
+  .viewCon {
+    columns: 3;
+    width: calc(100% - 40px);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .viewCon {
+    columns: 2;
+  }
+}
+
+@media only screen and (max-width: 532px) {
+  .viewCon {
+    columns: 1;
+  }
+
+  .btnCon .clothesBtn img {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+  }
+}
