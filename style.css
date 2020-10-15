@@ -37,11 +37,15 @@ body {
 }
 
 .github:hover {
-  color: var(--color-pink);
   transform: scale(1.1);
 }
 
-.github i {
+.github button {
+  background-color: transparent;
+  border: none;
+}
+
+.github a {
   font-size: 2rem;
 }
 
