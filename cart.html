@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Shopping Cart</title>
+        <link rel="stylesheet" href="style.css"/>
+        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;600;800&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="topBtns">
+            <div class="cart">
+                <a href="#">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span>CART</span>
+                    <span class="cartNumSpan">0</span>
+                </a>
+            </div>
+            <div class="home">
+                <button>
+                    <a href="index(shopping).html">
+                        <i class="fas fa-home"></i>
+                    </a>
+                </button>
+            </div>
+        </div>
+
+        <div class="logoCon">
+            <a href="index(shopping).html">
+                <img src="./img/logo.jpg" class="imgLogo" alt="">
+            </a>
+        </div>
+
+        <div class="cart-container">
+            <div class="removeAllBtn" onclick="clearAllCart()">
+                <button>Delete All</button>
+            </div>
+            <div class="header">
+                <h2 class="h-product">Product</h2>
+                <h2 class="h-price">Price</h2>
+                <h2 class="h-quantity">Quantity</h2>
+                <h2 class="h-total">Total</h2>
+            </div>
+            <div class="items"></div>
+        </div>
+        <div class="nextBtn">
+            <button>
+                <a href="">NEXT</a>
+            </button>
+        </div>
+        <script src="./src/main.js" defer></script>
+    </body>
+</html>

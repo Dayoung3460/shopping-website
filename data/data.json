@@ -2,450 +2,608 @@
     "items": [
     
     {
-        "type": "boots",
+        "id": 1,
+        "type": "Boots",
         "gender": "female",
         "size": "small",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_b2.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 35
     },
     {
-        "type": "coat",
+        "id": 2,
+        "type": "Coat",
         "gender": "female",
         "size": "medium",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_c.png",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 60
     },
     
     {
-        "type": "pants",
+        "id": 3,
+        "type": "Pants",
         "gender": "unisex",
         "size": "large",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_p.png",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 25
         
     },
     {
-        "type": "pants",
+        "id": 4,
+        "type": "Pants",
         "gender": "male",
         "size": "medium",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_p2.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 30
     },
     {
-        "type": "sneakers",
+        "id": 5,
+        "type": "Sneakers",
         "gender": "female",
         "size": "large",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_s.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 45
     },
     {
-        "type": "sneakers",
+        "id": 6,
+        "type": "Sneakers",
         "gender": "unisex",
         "size": "medium",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_s2.png",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 30
     },
     {
-        "type": "sneakers",
+        "id": 7,
+        "type": "Sneakers",
         "gender": "female",
         "size": "small",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_s3.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 25
     },
-    {   "type": "tshirt",
+    {   
+        "id": 8,
+        "type": "Tshirt",
         "gender": "female",
         "size": "large",
-        "color": "black",
+        "color": "Black",
         "image": "./img/black_t.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 10
     },
     {
-        "type": "boots",
+        "id": 9,
+        "type": "Boots",
         "gender": "female",
         "size": "small",
-        "color": "blue",
+        "color": "Blue",
         "image": "./img/blue_b.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 55
     },
     
     {
-        "type": "jumper",
+        "id": 10,
+        "type": "Jumper",
         "gender": "female",
         "size": "small",
-        "color": "blue",
+        "color": "Blue",
         "image": "./img/blue_j.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 30
     },
     {
-        "type": "pants",
+        "id": 11,
+        "type": "Pants",
         "gender": "unisex",
         "size": "large",
-        "color": "blue",
+        "color": "Blue",
         "image": "./img/blue_p.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 25
         
     },
     {
-        "type": "sneakers",
+        "id": 12,
+        "type": "Sneakers",
         "gender": "unisex",
         "size": "medium",
-        "color": "blue",
+        "color": "Blue",
         "image": "./img/blue_s.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 40
     },
     {
-        "type": "tshirt",
+        "id": 13,
+        "type": "Tshirt",
         "gender": "female",
         "size": "large",
-        "color": "blue",
+        "color": "Blue",
         "image": "./img/blue_t.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 15
     },
     {
-        "type": "boots",
+        "id": 14,
+        "type": "Boots",
         "gender": "unisex",
         "size": "medium",
-        "color": "brown",
+        "color": "Brown",
         "image": "./img/brown_b.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 45
     },
     {
-        "type": "coat",
+        "id": 15,
+        "type": "Coat",
         "gender": "female",
         "size": "small",
-        "color": "brown",
+        "color": "Brown",
         "image": "./img/brown_c.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 60
     },
-    {   "type": "pants",
+    {  
+        "id": 16,
+        "type": "Pants",
         "gender": "female",
         "size": "large",
-        "color": "brown",
+        "color": "Brown",
         "image": "./img/brown_p.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 35
     },
     {
-        "type": "pants",
+        "id": 17,
+        "type": "Pants",
         "gender": "female",
         "size": "small",
-        "color": "brown",
+        "color": "Brown",
         "image": "./img/brown_p2.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 20
     },
     {
-        "type": "coat",
+        "id": 18,
+        "type": "Coat",
         "gender": "female",
         "size": "medium",
-        "color": "grey",
+        "color": "Grey",
         "image": "./img/grey_c.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 75
     },
     {
-        "type": "coat",
+        "id": 19,
+        "type": "Coat",
         "gender": "female",
         "size": "small",
-        "color": "grey",
+        "color": "Grey",
         "image": "./img/grey_c2.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 80
     },
     {
-        "type": "jumper",
+        "id": 20,
+        "type": "Jumper",
         "gender": "female",
         "size": "large",
-        "color": "grey",
+        "color": "Grey",
         "image": "./img/grey_j.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 25
         
     },
     
     {
-        "type": "sneakers",
-        "gender": "female",
-        "size": "large",
-        "color": "black",
-        "image": "./img/black_s.jpg",
-        "season": "all"
-    },
-    
-    {
-        "type": "jumper",
+        "id": 21,
+        "type": "Jumper",
         "gender": "female",
         "size": "small",
-        "color": "green",
+        "color": "Green",
         "image": "./img/green_j.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 35
     },
-    {   "type": "pants",
+    {  
+        "id": 22,
+        "type": "Pants",
         "gender": "female",
         "size": "large",
-        "color": "green",
+        "color": "Green",
         "image": "./img/green_p.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 20
     },
     {
-        "type": "tshirt",
+        "id": 23,
+        "type": "Tshirt",
         "gender": "female",
         "size": "small",
-        "color": "green",
+        "color": "Green",
         "image": "./img/green_t.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 15
     },
     {
-        "type": "jumper",
+        "id": 24,
+        "type": "Jumper",
         "gender": "female",
         "size": "medium",
-        "color": "orange",
+        "color": "Orange",
         "image": "./img/orange_j.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 20
     },
     {
-        "type": "tshirt",
+        "id": 25,
+        "type": "Tshirt",
         "gender": "male",
         "size": "small",
-        "color": "orange",
+        "color": "Orange",
         "image": "./img/orange_t.png",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 10
     },
     {
-        "type": "boots",
+        "id": 26,
+        "type": "Boots",
         "gender": "female",
         "size": "large",
-        "color": "pattern",
+        "color": "Pattern",
         "image": "./img/pattern_b.png",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 75
         
     },
     {
-        "type": "boots",
+        "id": 27,
+        "type": "Boots",
         "gender": "female",
         "size": "medium",
-        "color": "pattern",
+        "color": "Pattern",
         "image": "./img/pattern_b2.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 50
     },
     {
-        "type": "coat",
+        "id": 28,
+        "type": "Coat",
         "gender": "female",
         "size": "large",
-        "color": "pattern",
+        "color": "Pattern",
         "image": "./img/pattern_c.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 85
     },
     {
-        "type": "sneakers",
+        "id": 29,
+        "type": "Sneakers",
         "gender": "unisex",
         "size": "medium",
-        "color": "pattern",
+        "color": "Pattern",
         "image": "./img/pattern_s.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 60
     },
     {
-        "type": "coat",
+        "id": 30,
+        "type": "Coat",
         "gender": "female",
         "size": "small",
-        "color": "pink",
+        "color": "Pink",
         "image": "./img/pink_c.png",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 55
     },
     {
-        "type": "jumper",
+        "id": 31,
+        "type": "Jumper",
         "gender": "female",
         "size": "medium",
-        "color": "pink",
+        "color": "Pink",
         "image": "./img/pink_j.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 30
     },
     {
-        "type": "pants",
+        "id": 32,
+        "type": "Pants",
         "gender": "female",
         "size": "large",
-        "color": "pink",
+        "color": "Pink",
         "image": "./img/pink_p.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 40
     },
     {
-        "type": "pink",
+        "id": 33,
+        "type": "Pants",
         "gender": "female",
         "size": "medium",
-        "color": "pink",
+        "color": "Pink",
         "image": "./img/pink_p2.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 35
     },
     
-    {   "type": "coat",
+    {  
+        "id": 34,
+        "type": "Coat",
         "gender": "female",
         "size": "large",
-        "color": "purple",
+        "color": "Purple",
         "image": "./img/purple_c.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 50
     },
     {
-        "type": "pants",
+        "id": 35,
+        "type": "Pants",
         "gender": "female",
         "size": "small",
-        "color": "purple",
+        "color": "Purple",
         "image": "./img/purple_p.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 25
     },
     {
-        "type": "boots",
+        "id": 36,
+        "type": "Boots",
         "gender": "female",
         "size": "medium",
-        "color": "red",
+        "color": "Red",
         "image": "./img/red_b.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 30
     },
     {
-        "type": "coat",
+        "id": 37,
+        "type": "Coat",
         "gender": "female",
         "size": "small",
-        "color": "red",
+        "color": "Red",
         "image": "./img/red_c.png",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 55
     },
     {
-        "type": "sneakers",
+        "id": 38,
+        "type": "Sneakers",
         "gender": "unisex",
         "size": "large",
-        "color": "red",
+        "color": "Red",
         "image": "./img/red_s.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 25
         
     },
     {
-        "type": "tshirt",
+        "id": 39,
+        "type": "Tshirt",
         "gender": "female",
         "size": "medium",
-        "color": "red",
+        "color": "Red",
         "image": "./img/red_t.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 20
     },
     {
-        "type": "sneakers",
+        "id": 40,
+        "type": "Sneakers",
         "gender": "female",
         "size": "large",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_b.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 35
     },
     {
-        "type": "boots",
+        "id": 41,
+        "type": "Boots",
         "gender": "female",
         "size": "medium",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_b2.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 40
     },
     {
-        "type": "jumper",
+        "id": 42,
+        "type": "Jumper",
         "gender": "unisex",
         "size": "small",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_j.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 35
     },
     {
-        "type": "jumper",
+        "id": 43,
+        "type": "Jumper",
         "gender": "female",
         "size": "medium",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_j2.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 60
     },
     {
-        "type": "pants",
+        "id": 44,
+        "type": "Pants",
         "gender": "female",
         "size": "large",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_p.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 15
     },
     {
-        "type": "sneakers",
+        "id": 45,
+        "type": "Sneakers",
         "gender": "unisex",
         "size": "medium",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_s.jpg",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 25
     },
     {
-        "type": "sneakers",
+        "id": 46,
+        "type": "Sneakers",
         "gender": "female",
         "size": "small",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_s2.png",
-        "season": "all"
+        "season": "all",
+        "inCart": 0,
+        "price": 30
     },
-    {   "type": "tshirt",
+    {   
+        "id": 47,
+        "type": "Tshirt",
         "gender": "female",
         "size": "large",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_t.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 15
     },
     {
-        "type": "tshirt",
+        "id": 48,
+        "type": "Tshirt",
         "gender": "female",
         "size": "small",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_t2.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 30
     },
     {
-        "type": "tshirt",
+        "id": 49,
+        "type": "Tshirt",
         "gender": "unisex",
         "size": "medium",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_t3.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 15
     },
     {
-        "type": "tshirt",
+        "id": 50,
+        "type": "Tshirt",
         "gender": "unisex",
         "size": "small",
-        "color": "white",
+        "color": "White",
         "image": "./img/white_t4.png",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 35
     },
     {
-        "type": "tshirt",
+        "id": 51,
+        "type": "Tshirt",
         "gender": "unisex",
         "size": "large",
-        "color": "yellow",
+        "color": "Yellow",
         "image": "./img/yellow_t.jpg",
-        "season": "summer"
+        "season": "summer",
+        "inCart": 0,
+        "price": 25
         
     },
     {
-        "type": "coat",
+        "id": 52,
+        "type": "Coat",
         "gender": "female",
         "size": "medium",
-        "color": "yellow",
+        "color": "Yellow",
         "image": "./img/yellow_c.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 60
     },
     {
-        "type": "jumper",
+        "id": 53,
+        "type": "Jumper",
         "gender": "female",
         "size": "large",
-        "color": "yellow",
+        "color": "Yellow",
         "image": "./img/yellow_j.png",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 35
     },
     {
-        "type": "jumper",
+        "id": 54,
+        "type": "Jumper",
         "gender": "female",
         "size": "small",
-        "color": "yellow",
+        "color": "Yellow",
         "image": "./img/yellow_j2.jpg",
-        "season": "winter"
+        "season": "winter",
+        "inCart": 0,
+        "price": 20
     }
 ]
 }
